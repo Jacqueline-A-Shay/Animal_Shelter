@@ -10,4 +10,4 @@
 - [ ] 
 - [ ] 
 - [ ] 
-- [ ] 
+- [ ] Anomaly? When do people adopt more?
