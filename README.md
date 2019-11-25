@@ -1,10 +1,13 @@
 # Animal_Shelter
-- [ ] Mercury
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+
+**Note** 
+
+- [x] Both dataset acquired
+- [x] Initial peek
+- [ ] Difference between Kaggle's versus Austin government dataset?
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
