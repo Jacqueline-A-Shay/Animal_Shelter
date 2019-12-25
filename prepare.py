@@ -1,5 +1,21 @@
 import pandas as pd
 
+def report_col_with_null_df(df):
+    need_attention_col = []
+    num_null = []
+    
+    #null_pd = pd.DataFrame()
+    for c in df.columns.tolist():
+        
+        if df[c].isnull().sum() != 0:
+            need_attention_col.append(c)
+            num_null.append(df[c].isnull().sum())
+        
+        null_pd = pd.DataFrame(need_attention_col).T
+        null_pd = pd.concat([null_pd, (pd.DataFrame(num_null).T)])
+
+    return null_pd
+
 
 def report_col_with_null(df):
     need_attention_col = []
