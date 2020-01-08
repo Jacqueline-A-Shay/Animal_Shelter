@@ -1,5 +1,7 @@
 # Animal_Shelter
 
+**Goal**
+
 **Outline** 
 
 - [x] Both dataset acquired
