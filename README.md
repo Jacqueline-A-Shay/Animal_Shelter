@@ -2,7 +2,7 @@
 
 **Note** 
 
-[v] Both dataset acquired <br>
+- [x] Both dataset acquired <br>
 [v] Initial peek <br>
 
 [x] EDA <br>
