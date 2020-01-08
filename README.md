@@ -10,4 +10,4 @@
 [ ] When received an animal, how do we prep the animal better for better adoption rate? <br>
 
 [ ] Model - Predict shelter animal outcome <br>
-[ ] Website & database - data source for recommender system <br>
+[ ] webscrape, NLP, website & database - data source for recommender system <br>
