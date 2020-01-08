@@ -12,4 +12,4 @@
 
 - [ ] Model - Predict shelter animal outcome
 - [ ] Webscrape, NLP, website & database - data source for recommender system 
-- [ ] Wishlist support content-based and collaborative filtering
+> Wishlist support content-based and collaborative filtering
