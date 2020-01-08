@@ -1,6 +1,6 @@
 # Animal_Shelter
 
-**Note** 
+**Outline** 
 
 - [x] Both dataset acquired
 - [x] Initial peek
@@ -10,4 +10,5 @@
 - [ ] When received an animal, how do we prep the animal better for better adoption rate?
 
 - [ ] Model - Predict shelter animal outcome
-- [ ] webscrape, NLP, website & database - data source for recommender system 
+- [ ] Webscrape, NLP, website & database - data source for recommender system 
+- [ ] Wishlist support content-based and collaborative filtering
